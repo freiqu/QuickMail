@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RTeMr0Y4pVHrreQXZgaed1nsM1nxW5PlXLascr1trOGJyWDdhV6y/Omp7fP2DE4+pL7P+gB9hJzuhopN8Lt/AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\freiq\\Source\\Repos\\freiqu\\QuickMail\\QuickMail\\QuickMail.iOS\\QuickMail.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\freiq\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
